@@ -1,6 +1,6 @@
 # JavaReview
 
-### 2022년 01/26 abstract!!
+### 2022년 01/26 abstract!!!
 
 > > 1. abstract class는 abstract 메서드의 오버라이드를 강제함으로써 프로그램의 안정성을 강화한다.
 > > 2. abstract 메서드가 있다면 반드시 abstract 클래스가 되어야 한다.
